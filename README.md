@@ -1,4 +1,4 @@
-# win_update_fresh_driver
+mi# win_update_fresh_driver
 Automated batch script for installing and updating drivers on Lenovo and Asus laptops. Supports fresh Windows installations and existing systems. Uses Windows Update, Device Manager, and manufacturer tools for comprehensive driver coverage. Run as admin and restart when done.
 
 
@@ -127,6 +127,8 @@ After running the script:
 - **Internet connection needed** - For downloading drivers from Windows Update
 - **Takes 15-30 minutes** - Fresh installations require more time
 - **Manufacturer tools recommended** - For optimal performance and specialized drivers
+- **“Lenovo, ThinkPad, Vantage, ASUS, MyASUS and related marks are trademarks of Lenovo Group Ltd. and/or ASUSTeK Computer Inc.
+This script is not affiliated with, sponsored by, or officially endorsed by Lenovo or ASUS.”**
 
 ## 🐛 Troubleshooting
 
