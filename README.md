@@ -155,7 +155,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Support
 
 For issues and questions:
-- Open an [Issue](https://github.com/yourusername/laptop-driver-script/issues)
+- Open an [Issue](https://github.com/djkaz/laptop-driver-script/issues)
 - Check existing issues for solutions
 
 ## ⭐ Acknowledgments
